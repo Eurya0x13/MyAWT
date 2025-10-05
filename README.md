@@ -19,7 +19,7 @@
 
 ## 🚧 实现原理
 Swing Application:
-
+``` text
 +-----------------------------------+     +-----------------------------------+
 |       Swing Application           |     |        Android System             |
 +-----------------------------------+     +-----------------------------------+
@@ -39,7 +39,7 @@ Swing Application:
 |  Cacio Toolkit (CTCToolkit)       |     |   Cacio Android Bridge            |
 |  Cacio GraphicsEnvironment        |     |   SocketFactory                   |                    
 +-----------------------------------+     +-----------------------------------+
-
+```
 Compose Application:
 TODO
 
