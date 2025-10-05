@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAWT</string>
+    <string name="title_activity_awt">AwtActivity</string>
+    <string name="title_activity_gui">GuiActivity</string>
+</resources>
